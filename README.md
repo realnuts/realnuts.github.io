@@ -1,3 +1,3 @@
 # realnuts.github.io
-[Policy](https://realnuts.github.io/policy.html)  
+[Privacy policy](https://realnuts.github.io/privacy.html)
 [Terms](https://realnuts.github.io/terms.html)
